@@ -17,7 +17,7 @@ The dataset contains information about house sales in King County, including fea
 * Scikit-learn
 * Jupyter Notebook
 
-## What the Notebook Covers
+## Workflow
 
 The notebook includes loading and cleaning the dataset, performing exploratory data analysis to understand the relationships between different housing features and house prices, and building regression models such as linear and polynomial regression to predict prices. Model performance is evaluated using the R² score.
 
