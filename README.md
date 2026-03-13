@@ -1,4 +1,4 @@
-# King County House Sales Analysis
+# real-estate-price-prediction
 
 This project analyzes housing sales data from King County, USA to understand the factors that influence house prices and build regression models for price prediction.
 
